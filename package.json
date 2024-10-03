@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.7.3",
+    "eslint": "^9.11.1"
+  }
+}
